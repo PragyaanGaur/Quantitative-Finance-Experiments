@@ -6,7 +6,7 @@ Backtests a gold ETF signal strategy that appears to generate 291% CAGR. However
 **Stack:** Python, NumPy, yfinance, Matplotlib, Pandas
 
 **Result:**  
-Strategy (Flawed): 344.5% CAGR  
+Strategy: 344.5% CAGR  
 TGLDX Buy & Hold: 8.7% CAGR
 
 <img src="Assets/Gold-Lookahead-Bug.png" width="600">
