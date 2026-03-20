@@ -1,6 +1,6 @@
-# Quantitative Finance Projects
+# Quantitative Finance Experiments
 
-### 1. Gold Lookahead Bug Strategy
+### 1. Gold Lookahead Strategy
 Backtests a gold ETF signal strategy that appears to generate 291% CAGR. However, the result is fictional because the signal uses today's price to place a trade that needed to happen yesterday.
 
 **Stack:** Python, NumPy, yfinance, Matplotlib, Pandas
@@ -17,7 +17,7 @@ Applies statistical arbitrage to the GLD/TGLDX price ratio using a 60-day rollin
 **Stack:** Python, NumPy, yfinance, Matplotlib, Pandas
 
 **Result:**  
-Strategy (Flawed): 25.0% CAGR  
+Strategy: 25.0% CAGR  
 TGLDX Buy & Hold: 8.7% CAGR
 
 <img src="Assets/Gold-Mean-Reversion.png" width="600">
