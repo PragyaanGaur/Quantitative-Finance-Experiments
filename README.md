@@ -12,7 +12,7 @@ TGLDX Buy & Hold: 8.7% CAGR
 <img src="Assets/Gold-Lookahead-Bug.png" width="600">
 
 ### 2. Gold Mean-Reversion Strategy
-Applies statistical arbitrage to the GLD/TGLDX price ratio using a 60-day rolling z-score, going long when the ratio is stretched and flat when it normalises. Documents why mean-reversion is the wrong model for miners vs physical gold, because the two diverge for years at a time, not days.
+Applies statistical arbitrage to the GLD/TGLDX price ratio using a 60-day rolling z-score, going long when the ratio is stretched and flat when it normalises. Documents why mean-reversion is the wrong model for miners vs physical gold, because the two diverge for years at a time and because it would require TGLDX to be shorted which is not executable.
 
 **Stack:** Python, NumPy, yfinance, Matplotlib, Pandas
 
