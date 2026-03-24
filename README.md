@@ -1,5 +1,5 @@
 # Quantitative Finance Experiments
-Collection of experiments exploring trading strategies, backtesting pitfalls, and the gap between theoretical performance and real-world execution.
+Collection of experiments exploring trading strategies, backtesting pitfalls, and the gap between theoretical performance and real-world execution. These experiments are designed to expose limitations in naive backtesting and highlight the importance of execution realism.
 
 ## Projects
 
