@@ -29,7 +29,8 @@ Small violations of causality in backtesting can completely invalidate results.
 
 **Stack:** Python, NumPy, yfinance, Matplotlib, Pandas
 
-<img src="Assets/Gold-Lookahead-Bug.png" width="600">
+<p align="center">
+<img src="Assets/Gold-Lookahead-Bug.png" width="600"></p>
 
 ### 2. Gold Mean-Reversion Strategy
 
@@ -57,4 +58,5 @@ A strategy can appear statistically valid while being structurally or operationa
 
 **Stack:** Python, NumPy, yfinance, Matplotlib, Pandas
 
-<img src="Assets/Gold-Mean-Reversion.png" width="600">
+<p align="center">
+<img src="Assets/Gold-Mean-Reversion.png" width="600"></p>
